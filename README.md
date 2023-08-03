@@ -1,13 +1,29 @@
 <img width="100" src="https://github.com/harshjadon9/ZenWalls/assets/62889318/fbaeb484-5d98-43fc-994d-385d2654721e.png">
-
-
+<br>
 
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
 # ZenWalls - A Wallpaper app
 ZenWalls - A wallpaper mobile application, featuring and providing 10000+ 4K wallpapers to the users. The application is developed using the React Native framework and Android custom modules. 🚀
 
+
 [Link to the app (Google Play Store)](https://play.google.com/store/apps/details?id=com.zenwalls)
+
+## Tech Stack 🚀
+* API Back-End
+  * Django
+  * MySQL
+    
+* Front-End
+  * React-Native
+  * Tailwind
+  
+* Hosting & Storage
+  * AWS Buckets  
+  * Apache2
+  * Server
+    * VPS - Low-end
+
 
 ## Screenshots 
 <table>
