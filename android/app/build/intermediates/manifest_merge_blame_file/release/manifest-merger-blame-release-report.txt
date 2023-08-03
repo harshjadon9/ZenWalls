@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zenwalls"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:3:5-67
+11-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+12-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:5:5-72
+12-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:5:22-69
+13    <!-- Required to access Google Play Licensing -->
+14    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+14-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-73
+14-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:22-70
+15    <!--
+16         Required to keep CPU alive while downloading files
+17        (NOT to keep screen awake)
+18    -->
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:5-68
+19-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:22-65
+20    <!--
+21         Required to poll the state of the network connection
+22        and respond to changes
+23    -->
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Required to check whether Wi-Fi is enabled -->
+24-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:5-79
+24-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:22-76
+25    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required to read and write the expansion files on shared storage -->
+25-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:5-76
+25-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:22-73
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:5-81
+26-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:22-78
+27    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+28
+29    <application
+29-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:7:5-26:19
+30        android:name="com.zenwalls.MainApplication"
+30-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:8:7-38
+31        android:allowBackup="false"
+31-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:12:7-34
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.7.0] /Users/harshjadon/.gradle/caches/transforms-3/948c3612aee17d86e5c180e70c3ba7eb/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+33        android:icon="@mipmap/ic_launcher"
+33-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:10:7-41
+34        android:label="@string/app_name"
+34-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:9:7-39
+35        android:roundIcon="@mipmap/ic_launcher_round"
+35-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:11:7-52
+36        android:theme="@style/splashScreenTheme" >
+36-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:13:7-47
+37        <activity
+37-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:14:7-25:18
+38            android:name="com.zenwalls.MainActivity"
+38-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:15:9-37
+39            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+39-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:17:9-118
+40            android:exported="true"
+40-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:20:9-32
+41            android:label="@string/app_name"
+41-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:16:9-41
+42            android:launchMode="singleTask"
+42-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:18:9-40
+43            android:windowSoftInputMode="adjustResize" >
+43-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:19:9-51
+44            <intent-filter>
+44-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:21:9-24:25
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:22:13-65
+45-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:22:21-62
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:23:13-73
+47-->/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/main/AndroidManifest.xml:23:23-70
+48            </intent-filter>
+49        </activity>
+50
+51        <provider
+51-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:32:9-40:20
+52            android:name="com.RNFetchBlob.Utils.FileProvider"
+52-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:33:13-62
+53            android:authorities="com.zenwalls.provider"
+53-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:13-60
+54            android:exported="false"
+54-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-37
+55            android:grantUriPermissions="true" >
+55-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-47
+56            <meta-data
+56-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-39:58
+57                android:name="android.support.FILE_PROVIDER_PATHS"
+57-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:17-67
+58                android:resource="@xml/provider_paths" />
+58-->[:rn-fetch-blob] /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:39:17-55
+59        </provider>
+60        <provider
+60-->[androidx.emoji2:emoji2:1.0.0] /Users/harshjadon/.gradle/caches/transforms-3/6a062b21418219d1f36fa88bd61c9016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+61            android:name="androidx.startup.InitializationProvider"
+61-->[androidx.emoji2:emoji2:1.0.0] /Users/harshjadon/.gradle/caches/transforms-3/6a062b21418219d1f36fa88bd61c9016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+62            android:authorities="com.zenwalls.androidx-startup"
+62-->[androidx.emoji2:emoji2:1.0.0] /Users/harshjadon/.gradle/caches/transforms-3/6a062b21418219d1f36fa88bd61c9016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+63            android:exported="false" >
+63-->[androidx.emoji2:emoji2:1.0.0] /Users/harshjadon/.gradle/caches/transforms-3/6a062b21418219d1f36fa88bd61c9016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+64            <meta-data
+64-->[androidx.emoji2:emoji2:1.0.0] /Users/harshjadon/.gradle/caches/transforms-3/6a062b21418219d1f36fa88bd61c9016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+65                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+65-->[androidx.emoji2:emoji2:1.0.0] /Users/harshjadon/.gradle/caches/transforms-3/6a062b21418219d1f36fa88bd61c9016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+66                android:value="androidx.startup" />
+66-->[androidx.emoji2:emoji2:1.0.0] /Users/harshjadon/.gradle/caches/transforms-3/6a062b21418219d1f36fa88bd61c9016/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+67            <meta-data
+67-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/harshjadon/.gradle/caches/transforms-3/010b64a8b5f74270f65831dbc9c1f706/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+68                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/harshjadon/.gradle/caches/transforms-3/010b64a8b5f74270f65831dbc9c1f706/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+69                android:value="androidx.startup" />
+69-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/harshjadon/.gradle/caches/transforms-3/010b64a8b5f74270f65831dbc9c1f706/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+70        </provider>
+71    </application>
+72
+73</manifest>

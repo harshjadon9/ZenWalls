@@ -1,0 +1,7 @@
+#Wed Jun 21 00:26:55 IST 2023
+base.1=/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/5/classes.dex
+path.1=5/classes.dex
+base.0=/Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
