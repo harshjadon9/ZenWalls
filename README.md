@@ -15,8 +15,8 @@ ZenWalls - A wallpaper mobile application, featuring and providing 10000+ 4K wal
   * MySQL
     
 * Front-End
-  * React-Native
-  * Tailwind
+ * React-Native
+ * Tailwind
   
 * Hosting & Storage
   * AWS Buckets  
