@@ -9,6 +9,9 @@ ZenWalls - A wallpaper mobile application, featuring and providing 10000+ 4K wal
 
 [Link to the app (Google Play Store)](https://play.google.com/store/apps/details?id=com.zenwalls)
 
+- harsh
+ - Harsh
+
 ## Tech Stack 🚀
 * API Back-End
   * Django
@@ -22,7 +25,7 @@ ZenWalls - A wallpaper mobile application, featuring and providing 10000+ 4K wal
   * AWS Buckets  
   * Apache2
   * Server
-    * VPS - Low-end
+    * Low-End Virtual Private Server
 
 
 ## Screenshots 
