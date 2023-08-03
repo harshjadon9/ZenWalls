@@ -31,9 +31,9 @@ ZenWalls - A wallpaper mobile application, featuring and providing 10000+ 4K wal
 
 <table>
 <tr>
-<td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/blob/37a2017a8ef1eb1dd657abd48704094313660dde/assets/wall_app/login.png"></td>
-<td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/blob/37a2017a8ef1eb1dd657abd48704094313660dde/assets/wall_app/chats.png"></td>
 <td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/blob/37a2017a8ef1eb1dd657abd48704094313660dde/assets/wall_app/rooms.png"></td>
+<td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/blob/37a2017a8ef1eb1dd657abd48704094313660dde/assets/wall_app/chats.png"></td>
+<td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/blob/37a2017a8ef1eb1dd657abd48704094313660dde/assets/wall_app/login.png"></td>
   
 <tr>
 </table>
