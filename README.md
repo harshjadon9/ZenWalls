@@ -1,4 +1,4 @@
-<img width="100" src="https://github.com/harshjadon9/ZenWalls/assets/62889318/fbaeb484-5d98-43fc-994d-385d2654721e.png">
+<img width="100" src="https://github.com/harshjadon9/ZenWalls/blob/37a2017a8ef1eb1dd657abd48704094313660dde/assets/logo%20roundede.png">
 <br>
 
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -26,12 +26,15 @@ ZenWalls - A wallpaper mobile application, featuring and providing 10000+ 4K wal
     - Low-End Virtual Private Server
 
 <br>
+
 ## Screenshots 📸
+
 <table>
 <tr>
-<td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/assets/62889318/f3fd4d81-d89c-4ca7-a130-383e97130307.png"></td>
-<td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/assets/62889318/6c716cfa-767b-408f-80f2-ece0327df22d.png"></td>
-<td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/assets/62889318/29a6d2c4-ebd3-444a-9323-315d9e5e0426.png"></td>
+<td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/blob/37a2017a8ef1eb1dd657abd48704094313660dde/assets/wall_app/login.png"></td>
+<td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/blob/37a2017a8ef1eb1dd657abd48704094313660dde/assets/wall_app/chats.png"></td>
+<td><img width="100%" src="https://github.com/harshjadon9/ZenWalls/blob/37a2017a8ef1eb1dd657abd48704094313660dde/assets/wall_app/rooms.png"></td>
+  
 <tr>
 </table>
 
