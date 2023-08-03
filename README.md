@@ -1,4 +1,4 @@
-![chats](https://github.com/harshjadon9/ZenWalls/assets/62889318/e32c7c02-0c64-41ae-9723-8adea6cae938)<img width="100" src="https://github.com/harshjadon9/ZenWalls/assets/62889318/4cfd32dd-0fd1-4f94-bc26-1ad0959265da.png">
+<img width="100" src="https://github.com/harshjadon9/ZenWalls/assets/62889318/4cfd32dd-0fd1-4f94-bc26-1ad0959265da.png">
 
 
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
