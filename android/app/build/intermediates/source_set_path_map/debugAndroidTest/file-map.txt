@@ -1,7 +1,0 @@
-com.zenwalls.test.app-androidTest-0 /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/build/generated/res/resValues/androidTest/debug
-com.zenwalls.test.app-androidTest-1 /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/build/generated/res/rs/androidTest/debug
-com.zenwalls.test.app-mergeDebugAndroidTestResources-2 /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.zenwalls.test.app-mergeDebugAndroidTestResources-3 /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.zenwalls.test.app-merged_res-4 /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/build/intermediates/merged_res/debugAndroidTest
-com.zenwalls.test.app-androidTest-5 /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/androidTest/res
-com.zenwalls.test.app-androidTestDebug-6 /Users/harshjadon/Desktop/r/wallapp_backup/3/zenwalls/android/app/src/androidTestDebug/res
